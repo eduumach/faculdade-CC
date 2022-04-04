@@ -1,3 +1,1 @@
-# OLA PYTHON
-
-Esse é um projeto de apresentação
+Esse repo aqui é para mostrar meus trabalhos e salvar coisas que fiz na faculdade.
